@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.612" height="28.947" viewBox="0 0 29.612 28.947">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H20.7V24.056H0Z" transform="translate(0 0.386)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_5" data-name="Clip 5" d="M0,0H20.7V24.057H0Z" transform="translate(0.25 0.61)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(0 -0.667)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 0.281)">
+      <path id="Clip_2-2" data-name="Clip 2" d="M0,0H20.7V24.056H0Z" transform="translate(0 0.386)" fill="none"/>
+      <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+        <path id="Fill_1" data-name="Fill 1" d="M18.971,10.309a5.8,5.8,0,0,0-1.085-.847,5.281,5.281,0,0,0-1.57,1.069l-2.65,2.65A1.721,1.721,0,0,1,16.1,15.614l-2.8,2.8a5.261,5.261,0,0,1-1.352.953,5.293,5.293,0,0,1-6.165-.953l-.125-.126-.015-.014a5.316,5.316,0,0,1,0-7.517l6.653-6.653A8.131,8.131,0,0,1,20.7,2.24a9.471,9.471,0,0,0-12.811.532l-5.11,5.11a9.476,9.476,0,0,0,0,13.4h0a9.475,9.475,0,0,0,13.4,0l2.8-2.8a5.776,5.776,0,0,0,0-8.177" transform="translate(0 0.386)" fill="#f4674d"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(8.667 4.947)">
+      <path id="Clip_5-2" data-name="Clip 5" d="M0,0H20.7V24.057H0Z" transform="translate(0.25 0.61)" fill="none"/>
+      <g id="Group_6-2" data-name="Group 6" clip-path="url(#clip-path-2)">
+        <path id="Fill_4" data-name="Fill 4" d="M17.921,2.776h0a9.475,9.475,0,0,0-13.4,0L1.878,5.418a5.761,5.761,0,0,0,1.151,9.061,5.244,5.244,0,0,0,1.351-.954l2.8-2.8A1.721,1.721,0,0,1,4.749,8.29L7.4,5.64a5.367,5.367,0,0,1,5.816-1.124,5.23,5.23,0,0,1,1.7,1.124l.126.126.014.014a5.316,5.316,0,0,1,0,7.517L8.4,19.95A8.132,8.132,0,0,1,0,21.817a9.47,9.47,0,0,0,12.811-.533l5.11-5.109a9.476,9.476,0,0,0,0-13.4" transform="translate(0.25 0.61)" fill="#6e7c7c"/>
+      </g>
+    </g>
+  </g>
+</svg>

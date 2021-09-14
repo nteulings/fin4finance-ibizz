@@ -1,0 +1,14 @@
+<svg id="Group_18" data-name="Group 18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H16V13H0Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <circle id="Oval_Copy_5" data-name="Oval Copy 5" cx="25" cy="25" r="25" fill="#fff"/>
+  <g id="Group_3" data-name="Group 3" transform="translate(17 19)">
+    <path id="Clip_2-2" data-name="Clip 2" d="M0,0H16V13H0Z" transform="translate(0 0)" fill="none"/>
+    <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+      <path id="Fill_1" data-name="Fill 1" d="M16,1.539a6.578,6.578,0,0,1-1.885.517A3.3,3.3,0,0,0,15.559.24a6.587,6.587,0,0,1-2.085.8A3.286,3.286,0,0,0,7.88,4.03,9.317,9.317,0,0,1,1.114.6,3.287,3.287,0,0,0,2.13,4.983,3.27,3.27,0,0,1,.643,4.572v.042A3.284,3.284,0,0,0,3.275,7.832a3.23,3.23,0,0,1-.864.116,3.293,3.293,0,0,1-.617-.059,3.284,3.284,0,0,0,3.065,2.279,6.577,6.577,0,0,1-4.076,1.4A6.774,6.774,0,0,1,0,11.528,9.294,9.294,0,0,0,5.032,13a9.276,9.276,0,0,0,9.34-9.339c0-.143,0-.284-.01-.425A6.648,6.648,0,0,0,16,1.539" fill="#323e48"/>
+    </g>
+  </g>
+</svg>

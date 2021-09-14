@@ -1,0 +1,11 @@
+<svg id="Group_40" data-name="Group 40" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g id="Oval" fill="none" stroke="#323e48" stroke-miterlimit="10" stroke-width="1">
+    <circle cx="26" cy="26" r="26" stroke="none"/>
+    <circle cx="26" cy="26" r="25.5" fill="none"/>
+  </g>
+  <g id="Group_29" data-name="Group 29" transform="translate(30.857 18.143) rotate(90)">
+    <path id="Path_11" data-name="Path 11" d="M0,.414H15.714" transform="translate(0 4.353)" fill="none" stroke="#323e48" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_12" data-name="Path 12" d="M5,4.962,0,0" transform="translate(10.714 0.217)" fill="none" stroke="#323e48" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_13" data-name="Path 13" d="M5,0,0,4.962" transform="translate(10.714 4.353)" fill="none" stroke="#323e48" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>
